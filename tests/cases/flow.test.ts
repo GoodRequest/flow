@@ -5,7 +5,7 @@ import { expect } from 'chai'
 
 import { Flow } from '../mocks/flow'
 
-import { flowMiddleware } from '../../src/flowMiddleware'
+import { flowMiddleware } from '../../src'
 
 describe('Middleware not used', () => {
 	let app: Express
