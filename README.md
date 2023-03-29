@@ -1,3 +1,6 @@
+[![Build and run tests](https://github.com/GoodRequest/flow/actions/workflows/build.yaml/badge.svg)](https://github.com/GoodRequest/flow/actions/workflows/build.yaml)
+[![Publish package to GitHub Packages](https://github.com/GoodRequest/flow/actions/workflows/publish.yaml/badge.svg)](https://github.com/GoodRequest/flow/actions/workflows/publish.yaml)
+
 # Flow Library
 Helper library for using [async hooks](https://nodejs.org/api/async_hooks.html), using [AsyncLocalStorage](https://nodejs.org/api/async_context.html#class-asynclocalstorage) class.
 
